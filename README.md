@@ -1,4 +1,4 @@
-# 👋 Hi, I'm German Rodriguez — `german-ai-forge`
+# Hi, I'm German Rodriguez — `german-ai-forge`
 
 💼 Senior Technical Analyst | Software Development Specialist| Certified Data & AI Engineer  
 🧠 Bridging business needs and technical execution through scalable AI and data systems  
