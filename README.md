@@ -26,7 +26,13 @@
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
+- [MonitoringLogs](https://github.com/german-ai-forge/MonitoringLogs) – Fleet log monitoring project (Software Engineering with Python & Git).
+- [coingecko-deltalake-pipeline](https://github.com/german-ai-forge/coingecko-deltalake-pipeline) – ETL pipeline using CoinGecko API + Delta Lake.
+- [Ticketing System](https://github.com/german-ai-forge/events3287) – Microservices architecture with Flask & MongoDB.
+
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ### 🪙 [CoinGecko Delta Lake Pipeline](https://github.com/german-ai-forge/coingecko-deltalake-pipeline)
 > Real-world ELT pipeline using CoinGecko's public API  
@@ -45,6 +51,8 @@
 - 🌐 Seeking remote opportunities in AI or Data Engineering
 
 ---
+
+
 
 ## 📫 Let’s Connect
 
