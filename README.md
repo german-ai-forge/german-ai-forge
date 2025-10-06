@@ -32,7 +32,7 @@ Turning customer problems into elegant, production-ready solutions
 - [MonitoringLogs](https://github.com/german-ai-forge/MonitoringLogs) – Fleet log monitoring project (Software Engineering with Python & Git).  
 - [coingecko-deltalake-pipeline](https://github.com/german-ai-forge/coingecko-deltalake-pipeline) – ETL pipeline using CoinGecko API + Delta Lake.  
 - [Ticketing System](https://github.com/german-ai-forge/events3287) – Microservices architecture with Flask & MongoDB.  
-- [Radio Data Pipeline](https://github.com/german-ai-forge/radio_datalake_python) – End-to-end pipeline for radio audio streams with Whisper, Mistral, and heuristics.  
+- [Radio Data Pipeline](https://github.com/german-ai-forge/radio_pipeline) – End-to-end pipeline for radio audio streams with Whisper, Mistral, and heuristics.  
 
 ---
 
