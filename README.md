@@ -8,12 +8,12 @@ Turning customer problems into elegant, production-ready solutions
 
 ## 🛠️ What I Do
 
-- 🔍 Extract, clean, and transform real-world data for analytics & machine learning  
-- ⚙️ Build reliable pipelines with Delta Lake, APIs, and schema validation  
-- 🧩 Act as a bridge between technical teams and stakeholders to deliver real-world solutions  
-- 🧾 Translate customer needs into clear, developer-friendly technical documentation  
-- 🤖 Integrate AI/LLMs (OpenAI, LangChain, Mistral, Whisper) to solve real business problems  
-- 🔐 Champion data governance — quality, lineage, control  
+-  Extract, clean, and transform real-world data for analytics & machine learning  
+-  Build reliable pipelines with Delta Lake, APIs, and schema validation  
+-  Act as a bridge between technical teams and stakeholders to deliver real-world solutions  
+-  Translate customer needs into clear, developer-friendly technical documentation  
+-  Integrate AI/LLMs (OpenAI, LangChain, Mistral, Whisper) to solve real business problems  
+-  Champion data governance — quality, lineage, control  
 
 ---
 
