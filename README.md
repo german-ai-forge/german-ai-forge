@@ -22,7 +22,7 @@ AI recommendation platform using RAG, embeddings, semantic similarity, and LLM-p
 
 Tech: FastAPI, Streamlit, Groq API, Semantic Search, Embeddings, PyTorch, Docker
 
-GAME ON Repository
+GAME ON Repository : https://github.com/zxrey/Game-On-Project.git ( game-on-backend)
 
 📊 CoinGecko Delta Lake Pipeline
 
@@ -30,15 +30,15 @@ Production-style ETL pipeline that extracts cryptocurrency market data from the 
 
 Tech: Python, Delta Lake, Pandas, APIs, PyArrow
 
-CoinGecko Pipeline
+CoinGecko Pipeline : https://github.com/german-ai-forge/coingecko-pipeline
 
-📻 Radio Data Pipeline
+📻 Radio Data Pipeline 
 
 End-to-end AI pipeline for processing radio streams using audio segmentation, transcription, heuristic analysis, and LLM-powered advertisement detection.
 
 Tech: Whisper, Mistral, ffmpeg, Python, AI Pipelines
 
-Radio Pipeline
+Radio Pipeline https://github.com/german-ai-forge/radio_pipeline
 
 🎟️ Ticketing System
 
@@ -54,7 +54,7 @@ AI-powered decision system combining Reinforcement Learning (DQN) and LLM explai
 
 Tech: Reinforcement Learning, LLMs, Python, AI Automation
 
-AI Ops Decision Agent
+AI Ops Decision Agent : https://github.com/german-ai-forge/ai-ops-decision-agent
 
 📈 MonitoringLogs
 
