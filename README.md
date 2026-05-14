@@ -1,92 +1,99 @@
-# Hi, I'm German Rodriguez — `german-ai-forge`
+Hi, I'm German Rodriguez — german-ai-forge
 
-Solution Engineer | Software Development Specialist | Certified Data & AI Engineer  
-Bridging business needs and technical execution through scalable AI and data systems  
+Solution Engineer | Software Development Specialist | Certified Data & AI Engineer
+Bridging business needs and technical execution through scalable AI and data systems
 Turning customer problems into elegant, production-ready solutions
 
----
+🛠️ What I Do
+Extract, clean, and transform real-world data for analytics & AI applications
+Build scalable pipelines with APIs, Delta Lake, semantic search, and vector embeddings
+Design AI-powered solutions using RAG architectures and LLM integrations
+Translate business requirements into developer-friendly technical solutions
+Act as the bridge between customers, stakeholders, and engineering teams
+Develop intelligent automation workflows and recommendation systems
+Champion data governance, reliability, and production-ready implementations
 
-## 🛠️ What I Do
+📂 Featured Projects
+🎮 GAME ON — AI-Powered Game Recommendation System
 
--  Extract, clean, and transform real-world data for analytics & machine learning  
--  Build reliable pipelines with Delta Lake, APIs, and schema validation  
--  Act as a bridge between technical teams and stakeholders to deliver real-world solutions  
--  Translate customer needs into clear, developer-friendly technical documentation  
--  Integrate AI/LLMs (OpenAI, LangChain, Mistral, Whisper) to solve real business problems  
--  Champion data governance — quality, lineage, control  
+AI recommendation platform using RAG, embeddings, semantic similarity, and LLM-powered query enhancement to recommend video games through natural language search.
 
----
+Tech: FastAPI, Streamlit, Groq API, Semantic Search, Embeddings, PyTorch, Docker
 
-## 🔧 Tech Stack
+GAME ON Repository
 
-- **Languages:** Python, JAVA, SQL  
-- **Data Tools:** pandas, Delta Lake, PyArrow, FastAPI, MongoDB  
-- **AI/LLM Tools:** OpenAI API, Mistral, Whisper, LangChain (in progress), prompt engineering  
-- **Governance:** schema enforcement, last-run control, deduplication  
-- **Infra & Dev:** Git, VSCode, Postman, REST APIs  
+📊 CoinGecko Delta Lake Pipeline
 
----
+Production-style ETL pipeline that extracts cryptocurrency market data from the CoinGecko API and stores it using Delta Lake with full and incremental extraction strategies.
 
-## 📂 Featured Projects
+Tech: Python, Delta Lake, Pandas, APIs, PyArrow
 
-- [MonitoringLogs](https://github.com/german-ai-forge/MonitoringLogs) – Fleet log monitoring project (Software Engineering with Python & Git).  
-- [coingecko-deltalake-pipeline](https://github.com/german-ai-forge/coingecko-pipeline) – ETL pipeline using CoinGecko API + Delta Lake.  
-- [Ticketing System](https://github.com/german-ai-forge/events3287) – Microservices architecture with Flask & MongoDB.  
-- [Radio Data Pipeline](https://github.com/german-ai-forge/radio_pipeline) – End-to-end pipeline for radio audio streams with Whisper, Mistral, and heuristics.  
-- ai-ops-decision-agent(https://github.com/german-ai-forge/ai-ops-decision-agent) -An AI-powered decision system combining Reinforcement Learning (DQN) and LLM-based explainability to automate ticket triage.
+CoinGecko Pipeline
+
+📻 Radio Data Pipeline
+
+End-to-end AI pipeline for processing radio streams using audio segmentation, transcription, heuristic analysis, and LLM-powered advertisement detection.
+
+Tech: Whisper, Mistral, ffmpeg, Python, AI Pipelines
+
+Radio Pipeline
+
+🎟️ Ticketing System
+
+Microservices-based event ticketing platform with Flask and MongoDB architecture.
+
+Tech: Flask, MongoDB, Python, REST APIs
+
+Ticketing System
+
+🤖 AI Ops Decision Agent
+
+AI-powered decision system combining Reinforcement Learning (DQN) and LLM explainability to automate ticket triage and operational decisions.
+
+Tech: Reinforcement Learning, LLMs, Python, AI Automation
+
+AI Ops Decision Agent
+
+📈 MonitoringLogs
+
+Fleet log monitoring and analysis project focused on software engineering best practices and operational monitoring.
+
+Tech: Python, Git, Monitoring Systems
+
+MonitoringLogs
 
 
----
-
-### 🎙️ [Radio Data Pipeline](https://github.com/german-ai-forge/radio_datalake_python)
-
-> Experimental AI + Data Engineering project that transforms **live radio audio** into structured, analytics-ready data.  
-
-#### 📝 Project Bio  
-- Capture **radio streams** as raw audio.  
-- Transcribe with **Whisper** (speech-to-text).  
-- Classify with **Mistral LLM + heuristic rules** (ads, music, talk/news).  
-- Store in **Delta Lake** layers: Bronze → Silver → Gold.  
-- Demonstrates **hybrid AI + heuristics** for accuracy & explainability.  
-
-#### 🚀 Usage  
-```bash
-# Extract & transcribe
-python extract.py --source <radio_stream_url>
-python transcribe.py --input data/bronze/audio.wav --output data/silver/
-
-# Classify with Mistral + heuristics
-python classify.py --input data/silver/transcripts.json --output data/gold/
-
-# Full pipeline
-python main.py --source <radio_stream_url>
-
-🧩 Hybrid AI + Heuristics Approach
-Whisper: generates transcript
-
-Heuristics: first-pass rules (e.g., ads < 15s, music = long non-speech, keywords like “discount”)
-
-Mistral LLM: validates, overrides, enriches classification
-
-Delta Lake: stores final enriched dataset
-
-🪙 CoinGecko Delta Lake Pipeline
-Real-world ELT pipeline using CoinGecko's public API
-Full & incremental extractions
-Silver-layer transformations with pandas
-Delta Lake storage, partitioned by time
-
-Data governance: schema, deduplication, last run tracking
-
-📚 Learning & Goals
-🎓 Finalizing my Data Engineer Certification
-
-📈 Building LLM-based tools (retrievers, chatbots, agents)
-
-🧩 Exploring LangChain, vector DBs & low-code AI tooling
-
-🌐 Seeking remote opportunities in AI or Data Engineering
-
+🔧 Tech Stack
+Languages & Frameworks
+Python
+Java
+SQL
+FastAPI
+Flask
+Streamlit
+AI / LLM / RAG
+OpenAI API
+Groq API
+LangChain
+Mistral
+Whisper
+Sentence Transformers
+Prompt Engineering
+Semantic Search
+Vector Embeddings
+Data & Storage
+Pandas
+Delta Lake
+PyArrow
+MongoDB
+Parquet
+Schema Validation
+DevOps & Tools
+Docker
+Git & GitHub
+VSCode
+Postman
+REST APIs
 
 ## 📫 Let’s Connect
 
