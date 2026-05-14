@@ -14,6 +14,8 @@ Develop intelligent automation workflows and recommendation systems
 Champion data governance, reliability, and production-ready implementations
 
 📂 Featured Projects
+
+
 🎮 GAME ON — AI-Powered Game Recommendation System
 
 AI recommendation platform using RAG, embeddings, semantic similarity, and LLM-powered query enhancement to recommend video games through natural language search.
